@@ -10,6 +10,8 @@ border: 1px white solid;
 body{
   font: 15px/1.5 Times New Roman;
   background-color:#ADD8E6; 
+  padding: 0;
+  margin: 0;
 }
 
 header nav{
